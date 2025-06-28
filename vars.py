@@ -3,8 +3,8 @@
 import os
 from os import environ
 
-API_ID = int(environ.get("API_ID", "22946135"))
-API_HASH = environ.get("API_HASH", "93e1b0c387cabe34a3ccfa1724ae8527")
+API_ID = int(environ.get("API_ID", "23368778"))
+API_HASH = environ.get("API_HASH", "51eab9ab41094156028dd0ea4170c9df")
 BOT_TOKEN = environ.get("BOT_TOKEN", "")
 OWNER = int(environ.get("OWNER", "5028061435"))
 CREDIT = "Unpaired e-"
